@@ -24,7 +24,7 @@ The Student Record System offers the following features:
 
 7. **Store Data in a Text File**: Store the student records in a text file for future reference.
 
-![Alt](https://github.com/ange-nguetsop/Student_Record_System/blob/main/Beispiel1.png)
+![Alt](https://github.com/ange-nguetsop/StudentRecordSystem/blob/master/Beispiel1.png)
 
 ## Getting Started
 
